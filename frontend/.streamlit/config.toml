@@ -1,0 +1,6 @@
+[logger]
+level = "error"
+
+[global]
+disableWarning = true
+disable_warning = true
